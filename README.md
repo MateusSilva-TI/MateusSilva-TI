@@ -137,3 +137,7 @@ que permita crescimento profissional e contribuição estratégica para os resul
 </p>
 
 <p align="center"><sub>Disponível para entrevistas e novos desafios.</sub></p>
+
+<p align="center">
+  <img src= "http://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
