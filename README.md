@@ -28,6 +28,7 @@ que permita crescimento profissional e contribuição estratégica para os resul
 
 - 🎓 Cursando o 3º período de ADS — conclusão prevista para **dezembro de 2027**
 - 💻 Estudando **Desenvolvimento Web**, **React Native** e **Python**
+- 🗄️ Modelagem e consultas em **SQL**, **MySQL** e **PostgreSQL**
 - 🔐 Interesse em **Cibersegurança** e **Segurança da Informação**
 - 🛠️ Experiência prática com **Linux**, **Windows** e **manutenção de hardware**
 
@@ -45,6 +46,12 @@ que permita crescimento profissional e contribuição estratégica para os resul
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Redes-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes" />
@@ -59,6 +66,10 @@ que permita crescimento profissional e contribuição estratégica para os resul
   <tr>
     <td><strong>Frameworks &amp; Mobile</strong></td>
     <td>React Native</td>
+  </tr>
+  <tr>
+    <td><strong>Banco de Dados</strong></td>
+    <td>SQL · MySQL · PostgreSQL</td>
   </tr>
   <tr>
     <td><strong>Redes &amp; Infraestrutura</strong></td>
